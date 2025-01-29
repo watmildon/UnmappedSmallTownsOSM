@@ -11,7 +11,7 @@ Feel free to use any editor and map whatever interests you. The bot searches for
 * buildings
 * sidewalks
 * natural areas (forest, farm land)
-* waterways (streams, rivers
+* waterways (streams, rivers, lakes)
 * street lights
 * trees
 * shops
