@@ -5,8 +5,9 @@ If you map a town or discover that at town has been mapped, please leave a comme
 
 So far this only contains towns in:
 
-* Georgia, USA
 * Australia
+* Georgia, USA
+* West Virginia, USA
 
 It can be expanded if there is interest in scanning/adding other areas.
 
