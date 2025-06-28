@@ -27,3 +27,5 @@ Feel free to use any editor and map whatever interests you. The bot searches for
 * gas stations
 * post offices
 * ...
+
+Ensure that (in Australia) you merge existing address nodes with the buildings.
