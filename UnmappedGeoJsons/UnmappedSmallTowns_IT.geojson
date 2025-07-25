@@ -1,0 +1,6485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.227594,
+          43.016106
+        ]
+      },
+      "properties": {
+        "name": "Montepetriolo",
+        "buildings": 0,
+        "population": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.007869,
+          45.273174
+        ]
+      },
+      "properties": {
+        "name": "Corte de\u0027 Cortesi",
+        "buildings": 2,
+        "population": 993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.301821,
+          45.21229
+        ]
+      },
+      "properties": {
+        "name": "Volongo",
+        "buildings": 3,
+        "population": 620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.430781,
+          45.104374
+        ]
+      },
+      "properties": {
+        "name": "Tornata",
+        "buildings": 1,
+        "population": 521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.27744,
+          45.119106
+        ]
+      },
+      "properties": {
+        "name": "Ca\u0027 d\u0027Andrea",
+        "buildings": 3,
+        "population": 193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.316859,
+          45.073246
+        ]
+      },
+      "properties": {
+        "name": "San Martino del Lago",
+        "buildings": 3,
+        "population": 476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.350279,
+          45.142174
+        ]
+      },
+      "properties": {
+        "name": "Drizzona",
+        "buildings": 2,
+        "population": 371
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.406281,
+          45.069473
+        ]
+      },
+      "properties": {
+        "name": "Casteldidone",
+        "buildings": 4,
+        "population": 569
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.221477,
+          45.095272
+        ]
+      },
+      "properties": {
+        "name": "Cella Dati",
+        "buildings": 2,
+        "population": 584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.332834,
+          45.11165
+        ]
+      },
+      "properties": {
+        "name": "Voltido",
+        "buildings": 2,
+        "population": 452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35628,
+          45.081573
+        ]
+      },
+      "properties": {
+        "name": "Solarolo Rainerio",
+        "buildings": 3,
+        "population": 989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.563729,
+          45.214367
+        ]
+      },
+      "properties": {
+        "name": "Langosco",
+        "buildings": 1,
+        "population": 458
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.334556,
+          45.149666
+        ]
+      },
+      "properties": {
+        "name": "Torre de\u0027 Negri",
+        "buildings": 1,
+        "population": 349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.325658,
+          45.05426
+        ]
+      },
+      "properties": {
+        "name": "Zenevredo",
+        "buildings": 8,
+        "population": 453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.818846,
+          45.09756
+        ]
+      },
+      "properties": {
+        "name": "Galliavola",
+        "buildings": 5,
+        "population": 232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.583145,
+          44.80615
+        ]
+      },
+      "properties": {
+        "name": "Castelspina",
+        "buildings": 5,
+        "population": 394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.206033,
+          45.07165
+        ]
+      },
+      "properties": {
+        "name": "Odalengo Piccolo",
+        "buildings": 8,
+        "population": 274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.450745,
+          44.726048
+        ]
+      },
+      "properties": {
+        "name": "Alice Bel Colle",
+        "buildings": 8,
+        "population": 786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.606553,
+          45.07014
+        ]
+      },
+      "properties": {
+        "name": "Bozzole",
+        "buildings": 6,
+        "population": 321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8315735,
+          44.658283
+        ]
+      },
+      "properties": {
+        "name": "Carrosio",
+        "buildings": 9,
+        "population": 465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.965456,
+          44.69645
+        ]
+      },
+      "properties": {
+        "name": "Grondona",
+        "buildings": 7,
+        "population": 538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.359536,
+          45.096855
+        ]
+      },
+      "properties": {
+        "name": "Treville",
+        "buildings": 6,
+        "population": 280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.358736,
+          45.075153
+        ]
+      },
+      "properties": {
+        "name": "Sala Monferrato",
+        "buildings": 8,
+        "population": 475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.715646,
+          44.976856
+        ]
+      },
+      "properties": {
+        "name": "Rivarone",
+        "buildings": 2,
+        "population": 372
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.167932,
+          45.07225
+        ]
+      },
+      "properties": {
+        "name": "Villadeati",
+        "buildings": 9,
+        "population": 521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.429739,
+          45.017654
+        ]
+      },
+      "properties": {
+        "name": "Camagna Monferrato",
+        "buildings": 8,
+        "population": 537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.566541,
+          45.060555
+        ]
+      },
+      "properties": {
+        "name": "Giarole",
+        "buildings": 3,
+        "population": 690
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.758652,
+          44.669746
+        ]
+      },
+      "properties": {
+        "name": "Parodi Ligure",
+        "buildings": 1,
+        "population": 721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.168806,
+          45.0049
+        ]
+      },
+      "properties": {
+        "name": "Frinco",
+        "buildings": 7,
+        "population": 690
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.337265,
+          44.6695
+        ]
+      },
+      "properties": {
+        "name": "Sessame",
+        "buildings": 1,
+        "population": 285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0202427,
+          44.96716
+        ]
+      },
+      "properties": {
+        "name": "Massello / Mas\u00EAl",
+        "buildings": 8,
+        "population": 74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.888125,
+          45.11835
+        ]
+      },
+      "properties": {
+        "name": "Rivalba",
+        "buildings": 3,
+        "population": 966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.978921,
+          45.45926
+        ]
+      },
+      "properties": {
+        "name": "Palazzo Canavese",
+        "buildings": 3,
+        "population": 782
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.439681,
+          45.301872
+        ]
+      },
+      "properties": {
+        "name": "Monastero di Lanzo",
+        "buildings": 9,
+        "population": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.920827,
+          45.04575
+        ]
+      },
+      "properties": {
+        "name": "Mombello di Torino",
+        "buildings": 8,
+        "population": 395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.993522,
+          45.407757
+        ]
+      },
+      "properties": {
+        "name": "Settimo Rottaro",
+        "buildings": 0,
+        "population": 517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.954822,
+          45.385757
+        ]
+      },
+      "properties": {
+        "name": "Vestign\u00E8",
+        "buildings": 6,
+        "population": 861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.325333,
+          45.235756
+        ]
+      },
+      "properties": {
+        "name": "Tricerro",
+        "buildings": 9,
+        "population": 621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.293529,
+          45.400963
+        ]
+      },
+      "properties": {
+        "name": "Casanova Elvo",
+        "buildings": 8,
+        "population": 246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.101628,
+          45.231853
+        ]
+      },
+      "properties": {
+        "name": "Lamporo",
+        "buildings": 8,
+        "population": 522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.744953,
+          38.07227
+        ]
+      },
+      "properties": {
+        "name": "Frazzan\u00F2",
+        "buildings": 5,
+        "population": 559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.292397,
+          39.09189
+        ]
+      },
+      "properties": {
+        "name": "Motta Santa Lucia",
+        "buildings": 0,
+        "population": 848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.252695,
+          39.13049
+        ]
+      },
+      "properties": {
+        "name": "Altilia",
+        "buildings": 9,
+        "population": 775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.248594,
+          39.15499
+        ]
+      },
+      "properties": {
+        "name": "Malito",
+        "buildings": 2,
+        "population": 896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.420193,
+          39.5831
+        ]
+      },
+      "properties": {
+        "name": "San Cosmo Albanese",
+        "buildings": 5,
+        "population": 702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.82398,
+          39.928574
+        ]
+      },
+      "properties": {
+        "name": "Aieta",
+        "buildings": 9,
+        "population": 892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.302896,
+          39.10949
+        ]
+      },
+      "properties": {
+        "name": "Pedivigliano",
+        "buildings": 3,
+        "population": 983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.321396,
+          39.28509
+        ]
+      },
+      "properties": {
+        "name": "Trenta",
+        "buildings": 2,
+        "population": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.100698,
+          38.51288
+        ]
+      },
+      "properties": {
+        "name": "Serrata",
+        "buildings": 1,
+        "population": 964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.757795,
+          38.17257
+        ]
+      },
+      "properties": {
+        "name": "Sant\u0027Alessio in Aspromonte",
+        "buildings": 8,
+        "population": 436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.151781,
+          40.12481
+        ]
+      },
+      "properties": {
+        "name": "Teana",
+        "buildings": 9,
+        "population": 750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.528116,
+          41.580357
+        ]
+      },
+      "properties": {
+        "name": "Casalciprano",
+        "buildings": 9,
+        "population": 635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.911735,
+          41.59503
+        ]
+      },
+      "properties": {
+        "name": "Macchia Valfortore",
+        "buildings": 4,
+        "population": 757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.519325,
+          41.68253
+        ]
+      },
+      "properties": {
+        "name": "Pietracupa",
+        "buildings": 8,
+        "population": 259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.292322,
+          41.521725
+        ]
+      },
+      "properties": {
+        "name": "Castelpizzuto",
+        "buildings": 2,
+        "population": 143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.260418,
+          41.774128
+        ]
+      },
+      "properties": {
+        "name": "Vastogirardi",
+        "buildings": 3,
+        "population": 798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.384421,
+          41.747128
+        ]
+      },
+      "properties": {
+        "name": "Pietrabbondante",
+        "buildings": 7,
+        "population": 961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.385538,
+          41.677845
+        ]
+      },
+      "properties": {
+        "name": "Chiauci",
+        "buildings": 4,
+        "population": 277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.179517,
+          41.695927
+        ]
+      },
+      "properties": {
+        "name": "Forl\u00EC del Sannio",
+        "buildings": 0,
+        "population": 833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.368224,
+          41.552727
+        ]
+      },
+      "properties": {
+        "name": "Santa Maria del Molise",
+        "buildings": 4,
+        "population": 654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.092364,
+          42.921005
+        ]
+      },
+      "properties": {
+        "name": "Montegabbione",
+        "buildings": 9,
+        "population": 579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.051145,
+          42.918495
+        ]
+      },
+      "properties": {
+        "name": "Monteleone d\u0027Orvieto",
+        "buildings": 2,
+        "population": 516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.001303,
+          42.754673
+        ]
+      },
+      "properties": {
+        "name": "Castel Viscardo",
+        "buildings": 2,
+        "population": 967
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.789589,
+          41.046158
+        ]
+      },
+      "properties": {
+        "name": "Chianche",
+        "buildings": 0,
+        "population": 610
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.88177,
+          40.93094
+        ]
+      },
+      "properties": {
+        "name": "Parolise",
+        "buildings": 5,
+        "population": 653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.199148,
+          41.05852
+        ]
+      },
+      "properties": {
+        "name": "San Nicola Baronia",
+        "buildings": 0,
+        "population": 859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.993045,
+          41.00662
+        ]
+      },
+      "properties": {
+        "name": "Sant\u0027Angelo all\u0027Esca",
+        "buildings": 0,
+        "population": 942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.813023,
+          41.033455
+        ]
+      },
+      "properties": {
+        "name": "Torrioni",
+        "buildings": 0,
+        "population": 633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.887097,
+          40.916927
+        ]
+      },
+      "properties": {
+        "name": "Sorbo Serpico",
+        "buildings": 2,
+        "population": 566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.248447,
+          41.248726
+        ]
+      },
+      "properties": {
+        "name": "Montaguto",
+        "buildings": 5,
+        "population": 577
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.740187,
+          40.974575
+        ]
+      },
+      "properties": {
+        "name": "Sant\u0027Angelo a Scala",
+        "buildings": 0,
+        "population": 736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.88935,
+          40.920063
+        ]
+      },
+      "properties": {
+        "name": "Salza Irpina",
+        "buildings": 6,
+        "population": 797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.823317,
+          41.0103
+        ]
+      },
+      "properties": {
+        "name": "Tufo",
+        "buildings": 5,
+        "population": 951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.635629,
+          41.260105
+        ]
+      },
+      "properties": {
+        "name": "San Lupo",
+        "buildings": 10,
+        "population": 877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.939038,
+          41.165512
+        ]
+      },
+      "properties": {
+        "name": "Sant\u0027Arcangelo Trimonte",
+        "buildings": 0,
+        "population": 691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.078225,
+          41.304287
+        ]
+      },
+      "properties": {
+        "name": "Santa Lucia",
+        "buildings": 2,
+        "population": 575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.022419,
+          41.33822
+        ]
+      },
+      "properties": {
+        "name": "Tora",
+        "buildings": 6,
+        "population": 286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.193424,
+          41.202717
+        ]
+      },
+      "properties": {
+        "name": "Giano Vetusto",
+        "buildings": 6,
+        "population": 653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.181518,
+          41.45665
+        ]
+      },
+      "properties": {
+        "name": "Fontegreca",
+        "buildings": 8,
+        "population": 857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.068655,
+          40.330906
+        ]
+      },
+      "properties": {
+        "name": "Prignano Cilento",
+        "buildings": 2,
+        "population": 870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.605669,
+          40.142204
+        ]
+      },
+      "properties": {
+        "name": "Tortorella",
+        "buildings": 2,
+        "population": 603
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.28975,
+          40.122936
+        ]
+      },
+      "properties": {
+        "name": "San Mauro la Bruca",
+        "buildings": 1,
+        "population": 768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.360289,
+          44.715767
+        ]
+      },
+      "properties": {
+        "name": "Corte Brugnatella",
+        "buildings": 4,
+        "population": 586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.540682,
+          43.187355
+        ]
+      },
+      "properties": {
+        "name": "Francavilla d\u0027Ete",
+        "buildings": 0,
+        "population": 963
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.607616,
+          43.031963
+        ]
+      },
+      "properties": {
+        "name": "Ortezzano",
+        "buildings": 5,
+        "population": 832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.487582,
+          43.12065
+        ]
+      },
+      "properties": {
+        "name": "Monte Vidon Corrado",
+        "buildings": 3,
+        "population": 829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.580154,
+          43.02826
+        ]
+      },
+      "properties": {
+        "name": "Monte Rinaldo",
+        "buildings": 3,
+        "population": 412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.303153,
+          41.944946
+        ]
+      },
+      "properties": {
+        "name": "Civitaluparella",
+        "buildings": 1,
+        "population": 429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.200614,
+          42.004433
+        ]
+      },
+      "properties": {
+        "name": "Colledimacine",
+        "buildings": 0,
+        "population": 286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.156813,
+          42.004032
+        ]
+      },
+      "properties": {
+        "name": "Lettopalena",
+        "buildings": 8,
+        "population": 409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.50502,
+          42.012035
+        ]
+      },
+      "properties": {
+        "name": "Carpineto Sinello",
+        "buildings": 6,
+        "population": 746
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.526722,
+          41.916634
+        ]
+      },
+      "properties": {
+        "name": "Carunchio",
+        "buildings": 4,
+        "population": 781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.67751,
+          41.99626
+        ]
+      },
+      "properties": {
+        "name": "Lentella",
+        "buildings": 6,
+        "population": 768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.207315,
+          41.906033
+        ]
+      },
+      "properties": {
+        "name": "Gamberale",
+        "buildings": 9,
+        "population": 394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.252815,
+          41.97563
+        ]
+      },
+      "properties": {
+        "name": "Montenerodomo",
+        "buildings": 0,
+        "population": 678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.626006,
+          41.916462
+        ]
+      },
+      "properties": {
+        "name": "Tufillo",
+        "buildings": 4,
+        "population": 564
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.367117,
+          42.034336
+        ]
+      },
+      "properties": {
+        "name": "Bomba",
+        "buildings": 2,
+        "population": 972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.888105,
+          42.122932
+        ]
+      },
+      "properties": {
+        "name": "Roccacasale",
+        "buildings": 9,
+        "population": 754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.537962,
+          42.55213
+        ]
+      },
+      "properties": {
+        "name": "Fano Adriano",
+        "buildings": 2,
+        "population": 392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.716395,
+          42.542942
+        ]
+      },
+      "properties": {
+        "name": "Castel Castagna",
+        "buildings": 4,
+        "population": 539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755384,
+          41.378872
+        ]
+      },
+      "properties": {
+        "name": "Castelnuovo Parano",
+        "buildings": 1,
+        "population": 876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.706407,
+          41.676723
+        ]
+      },
+      "properties": {
+        "name": "Vicalvi",
+        "buildings": 0,
+        "population": 801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.804279,
+          42.251026
+        ]
+      },
+      "properties": {
+        "name": "Casaprota",
+        "buildings": 6,
+        "population": 686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.038986,
+          42.17553
+        ]
+      },
+      "properties": {
+        "name": "Collegiove",
+        "buildings": 4,
+        "population": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.892779,
+          42.317654
+        ]
+      },
+      "properties": {
+        "name": "Belmonte in Sabina",
+        "buildings": 0,
+        "population": 617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.597059,
+          42.366657
+        ]
+      },
+      "properties": {
+        "name": "Montebuono",
+        "buildings": 7,
+        "population": 913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.070083,
+          42.15616
+        ]
+      },
+      "properties": {
+        "name": "Nespolo",
+        "buildings": 7,
+        "population": 224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.996612,
+          42.084282
+        ]
+      },
+      "properties": {
+        "name": "Vallinfreda",
+        "buildings": 7,
+        "population": 290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.820655,
+          42.462826
+        ]
+      },
+      "properties": {
+        "name": "Arlena di Castro",
+        "buildings": 6,
+        "population": 867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.205289,
+          43.561363
+        ]
+      },
+      "properties": {
+        "name": "Morrocco",
+        "buildings": 9,
+        "population": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.789523,
+          38.025295
+        ]
+      },
+      "properties": {
+        "name": "Balata di Baida",
+        "buildings": 3,
+        "population": 209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.830428,
+          38.562954
+        ]
+      },
+      "properties": {
+        "name": "Valdichiesa",
+        "buildings": 4,
+        "population": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.625661,
+          43.228046
+        ]
+      },
+      "properties": {
+        "name": "Carbonesca",
+        "buildings": 9,
+        "population": 313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.419756,
+          43.232548
+        ]
+      },
+      "properties": {
+        "name": "Randolo",
+        "buildings": 9,
+        "population": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.561396,
+          43.327427
+        ]
+      },
+      "properties": {
+        "name": "Case Santa Maria Maddalena",
+        "buildings": 5,
+        "population": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.419155,
+          43.16213
+        ]
+      },
+      "properties": {
+        "name": "Cordigliano",
+        "buildings": 2,
+        "population": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591059,
+          43.32965
+        ]
+      },
+      "properties": {
+        "name": "Fonte Cese",
+        "buildings": 0,
+        "population": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.611119,
+          43.193115
+        ]
+      },
+      "properties": {
+        "name": "Giomici",
+        "buildings": 6,
+        "population": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.562377,
+          43.164005
+        ]
+      },
+      "properties": {
+        "name": "Monteverde",
+        "buildings": 7,
+        "population": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.510359,
+          43.181145
+        ]
+      },
+      "properties": {
+        "name": "Piccione",
+        "buildings": 10,
+        "population": 823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.615862,
+          43.168148
+        ]
+      },
+      "properties": {
+        "name": "Poggio San Dionisio",
+        "buildings": 2,
+        "population": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.427256,
+          43.23895
+        ]
+      },
+      "properties": {
+        "name": "Rancolfo",
+        "buildings": 2,
+        "population": 143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.427034,
+          43.201298
+        ]
+      },
+      "properties": {
+        "name": "Resina",
+        "buildings": 5,
+        "population": 491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.63616,
+          43.31015
+        ]
+      },
+      "properties": {
+        "name": "Spada",
+        "buildings": 1,
+        "population": 316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3503475,
+          42.224476
+        ]
+      },
+      "properties": {
+        "name": "Colle Cerase",
+        "buildings": 2,
+        "population": 149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07833,
+          45.00417
+        ]
+      },
+      "properties": {
+        "name": "Caselle",
+        "buildings": 8,
+        "population": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.061739,
+          44.99826
+        ]
+      },
+      "properties": {
+        "name": "Malcantone",
+        "buildings": 5,
+        "population": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.419119,
+          36.92357
+        ]
+      },
+      "properties": {
+        "name": "Borgo Fenicio",
+        "buildings": 4,
+        "population": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.425524,
+          36.91458
+        ]
+      },
+      "properties": {
+        "name": "Borgo Zafaglione",
+        "buildings": 7,
+        "population": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.744306,
+          44.664913
+        ]
+      },
+      "properties": {
+        "name": "Tramontana",
+        "buildings": 9,
+        "population": 188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.781335,
+          44.68108
+        ]
+      },
+      "properties": {
+        "name": "Valrossara",
+        "buildings": 1,
+        "population": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.87998,
+          45.032745
+        ]
+      },
+      "properties": {
+        "name": "Ronco Nuovo",
+        "buildings": 8,
+        "population": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.741081,
+          43.08327
+        ]
+      },
+      "properties": {
+        "name": "Balciano",
+        "buildings": 0,
+        "population": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.743898,
+          43.066483
+        ]
+      },
+      "properties": {
+        "name": "Casa Tommaso",
+        "buildings": 0,
+        "population": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.76574,
+          43.07559
+        ]
+      },
+      "properties": {
+        "name": "Ca\u0027 Rosaia",
+        "buildings": 0,
+        "population": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.584567,
+          43.03083
+        ]
+      },
+      "properties": {
+        "name": "Castelnuovo",
+        "buildings": 6,
+        "population": 719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.736031,
+          43.03097
+        ]
+      },
+      "properties": {
+        "name": "Cupacci",
+        "buildings": 0,
+        "population": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.775591,
+          43.08148
+        ]
+      },
+      "properties": {
+        "name": "Giove",
+        "buildings": 0,
+        "population": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.75218,
+          43.040295
+        ]
+      },
+      "properties": {
+        "name": "Fosso della Ghianda",
+        "buildings": 4,
+        "population": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.716356,
+          42.995075
+        ]
+      },
+      "properties": {
+        "name": "La Valle",
+        "buildings": 7,
+        "population": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.778382,
+          43.092144
+        ]
+      },
+      "properties": {
+        "name": "Mascionchie",
+        "buildings": 0,
+        "population": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.76404,
+          43.023037
+        ]
+      },
+      "properties": {
+        "name": "Poggiarello",
+        "buildings": 2,
+        "population": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.750829,
+          43.0221
+        ]
+      },
+      "properties": {
+        "name": "Pontecentesimo",
+        "buildings": 1,
+        "population": 154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.759976,
+          43.072166
+        ]
+      },
+      "properties": {
+        "name": "Ponterio",
+        "buildings": 0,
+        "population": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.758605,
+          43.001434
+        ]
+      },
+      "properties": {
+        "name": "Ravignano",
+        "buildings": 0,
+        "population": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.589428,
+          43.039753
+        ]
+      },
+      "properties": {
+        "name": "Tomba",
+        "buildings": 0,
+        "population": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.746009,
+          42.99638
+        ]
+      },
+      "properties": {
+        "name": "San Vittore",
+        "buildings": 0,
+        "population": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.759379,
+          43.091816
+        ]
+      },
+      "properties": {
+        "name": "Vittiano",
+        "buildings": 6,
+        "population": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.752863,
+          43.105434
+        ]
+      },
+      "properties": {
+        "name": "Villa Postignano",
+        "buildings": 0,
+        "population": 102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.159475,
+          42.831963
+        ]
+      },
+      "properties": {
+        "name": "Casalicchio",
+        "buildings": 0,
+        "population": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10861,
+          42.90636
+        ]
+      },
+      "properties": {
+        "name": "Castel di Fiori",
+        "buildings": 4,
+        "population": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.077862,
+          42.89674
+        ]
+      },
+      "properties": {
+        "name": "Faiolo",
+        "buildings": 0,
+        "population": 206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.08317,
+          42.8676
+        ]
+      },
+      "properties": {
+        "name": "Olevole",
+        "buildings": 0,
+        "population": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.143389,
+          42.849846
+        ]
+      },
+      "properties": {
+        "name": "Pievelunga",
+        "buildings": 0,
+        "population": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.109204,
+          42.81426
+        ]
+      },
+      "properties": {
+        "name": "Poggi",
+        "buildings": 0,
+        "population": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0713415,
+          42.803867
+        ]
+      },
+      "properties": {
+        "name": "Sala",
+        "buildings": 1,
+        "population": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.059494,
+          42.906746
+        ]
+      },
+      "properties": {
+        "name": "San Lorenzo",
+        "buildings": 0,
+        "population": 119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.067654,
+          42.847233
+        ]
+      },
+      "properties": {
+        "name": "San Cristoforo",
+        "buildings": 4,
+        "population": 152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.168919,
+          42.824005
+        ]
+      },
+      "properties": {
+        "name": "San Marino",
+        "buildings": 0,
+        "population": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.03661,
+          42.894073
+        ]
+      },
+      "properties": {
+        "name": "Santa Maria",
+        "buildings": 0,
+        "population": 507
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.111374,
+          42.784508
+        ]
+      },
+      "properties": {
+        "name": "Bagni",
+        "buildings": 0,
+        "population": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.988713,
+          42.70819
+        ]
+      },
+      "properties": {
+        "name": "Bellocchio",
+        "buildings": 0,
+        "population": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.006693,
+          42.734947
+        ]
+      },
+      "properties": {
+        "name": "Benano",
+        "buildings": 0,
+        "population": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.067433,
+          42.679127
+        ]
+      },
+      "properties": {
+        "name": "Bivio Corsica",
+        "buildings": 0,
+        "population": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.160519,
+          42.689533
+        ]
+      },
+      "properties": {
+        "name": "Botto",
+        "buildings": 0,
+        "population": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.048823,
+          42.699997
+        ]
+      },
+      "properties": {
+        "name": "Canonica",
+        "buildings": 2,
+        "population": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.175914,
+          42.748535
+        ]
+      },
+      "properties": {
+        "name": "Capretta",
+        "buildings": 0,
+        "population": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.017659,
+          42.690536
+        ]
+      },
+      "properties": {
+        "name": "Casa Perazza",
+        "buildings": 0,
+        "population": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98957,
+          42.710175
+        ]
+      },
+      "properties": {
+        "name": "Case Fabbri",
+        "buildings": 0,
+        "population": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.171401,
+          42.76921
+        ]
+      },
+      "properties": {
+        "name": "Case Negroni",
+        "buildings": 0,
+        "population": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.988396,
+          42.704903
+        ]
+      },
+      "properties": {
+        "name": "Case Taschini",
+        "buildings": 0,
+        "population": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.991412,
+          42.70894
+        ]
+      },
+      "properties": {
+        "name": "Case Vecchie",
+        "buildings": 0,
+        "population": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.079956,
+          42.742077
+        ]
+      },
+      "properties": {
+        "name": "Fontanelle di Bardano",
+        "buildings": 5,
+        "population": 194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.060846,
+          42.674927
+        ]
+      },
+      "properties": {
+        "name": "Corsica",
+        "buildings": 0,
+        "population": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.039928,
+          42.765873
+        ]
+      },
+      "properties": {
+        "name": "Le Prese-Zona Industriale",
+        "buildings": 3,
+        "population": 59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9854555,
+          42.750942
+        ]
+      },
+      "properties": {
+        "name": "Localit\u00E0 Cornale",
+        "buildings": 0,
+        "population": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.132593,
+          42.770336
+        ]
+      },
+      "properties": {
+        "name": "Morrano Nuovo",
+        "buildings": 1,
+        "population": 194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.970723,
+          42.71334
+        ]
+      },
+      "properties": {
+        "name": "Nane",
+        "buildings": 0,
+        "population": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140974,
+          42.778065
+        ]
+      },
+      "properties": {
+        "name": "Morrano Vecchio",
+        "buildings": 0,
+        "population": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.173443,
+          42.73479
+        ]
+      },
+      "properties": {
+        "name": "Osarella",
+        "buildings": 0,
+        "population": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.116395,
+          42.75625
+        ]
+      },
+      "properties": {
+        "name": "Pian del Vantaggio",
+        "buildings": 0,
+        "population": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1609955,
+          42.75688
+        ]
+      },
+      "properties": {
+        "name": "Padella",
+        "buildings": 0,
+        "population": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.967823,
+          42.704582
+        ]
+      },
+      "properties": {
+        "name": "Ravisa",
+        "buildings": 0,
+        "population": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.067682,
+          42.72237
+        ]
+      },
+      "properties": {
+        "name": "Rocca Ripesena",
+        "buildings": 6,
+        "population": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.036334,
+          42.782417
+        ]
+      },
+      "properties": {
+        "name": "Pianlungo",
+        "buildings": 10,
+        "population": 753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.125475,
+          42.75748
+        ]
+      },
+      "properties": {
+        "name": "Ponte di Ferro",
+        "buildings": 1,
+        "population": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.056483,
+          42.710262
+        ]
+      },
+      "properties": {
+        "name": "Sugano",
+        "buildings": 3,
+        "population": 290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.151777,
+          42.74397
+        ]
+      },
+      "properties": {
+        "name": "San Giorgio",
+        "buildings": 9,
+        "population": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.062575,
+          42.671547
+        ]
+      },
+      "properties": {
+        "name": "Torre San Severo",
+        "buildings": 0,
+        "population": 104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.076934,
+          42.71036
+        ]
+      },
+      "properties": {
+        "name": "Trinit\u00E0",
+        "buildings": 1,
+        "population": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.084801,
+          42.71016
+        ]
+      },
+      "properties": {
+        "name": "Tamburino",
+        "buildings": 1,
+        "population": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.134787,
+          42.708103
+        ]
+      },
+      "properties": {
+        "name": "Villa Felici",
+        "buildings": 0,
+        "population": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.066015,
+          42.6961
+        ]
+      },
+      "properties": {
+        "name": "Villanova",
+        "buildings": 1,
+        "population": 118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.078556,
+          42.69963
+        ]
+      },
+      "properties": {
+        "name": "Borgo Hescana",
+        "buildings": 1,
+        "population": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.015361,
+          42.74161
+        ]
+      },
+      "properties": {
+        "name": "Viceno",
+        "buildings": 1,
+        "population": 219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.904472,
+          45.001698
+        ]
+      },
+      "properties": {
+        "name": "Aldegatta",
+        "buildings": 9,
+        "population": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.813899,
+          44.977158
+        ]
+      },
+      "properties": {
+        "name": "Cadalora",
+        "buildings": 9,
+        "population": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8843775,
+          44.97392
+        ]
+      },
+      "properties": {
+        "name": "Raffaelle",
+        "buildings": 4,
+        "population": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.859746,
+          44.965794
+        ]
+      },
+      "properties": {
+        "name": "Trombetta",
+        "buildings": 10,
+        "population": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.885608,
+          44.994087
+        ]
+      },
+      "properties": {
+        "name": "Vo\u0027 Giorgi",
+        "buildings": 0,
+        "population": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.898737,
+          44.985756
+        ]
+      },
+      "properties": {
+        "name": "Vo\u0027 di Bagno",
+        "buildings": 0,
+        "population": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.910893,
+          45.002487
+        ]
+      },
+      "properties": {
+        "name": "Zovo",
+        "buildings": 6,
+        "population": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.877916,
+          44.942257
+        ]
+      },
+      "properties": {
+        "name": "Zocca",
+        "buildings": 10,
+        "population": 126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.006391,
+          43.29721
+        ]
+      },
+      "properties": {
+        "name": "Monteguidi",
+        "buildings": 10,
+        "population": 147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.838789,
+          43.481266
+        ]
+      },
+      "properties": {
+        "name": "Villamagna",
+        "buildings": 3,
+        "population": 220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.800966,
+          44.963413
+        ]
+      },
+      "properties": {
+        "name": "Boschetti",
+        "buildings": 8,
+        "population": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.794202,
+          44.967564
+        ]
+      },
+      "properties": {
+        "name": "Palimata",
+        "buildings": 6,
+        "population": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.803541,
+          44.983997
+        ]
+      },
+      "properties": {
+        "name": "Polesine",
+        "buildings": 7,
+        "population": 467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33563,
+          42.72795
+        ]
+      },
+      "properties": {
+        "name": "Acqualoreto",
+        "buildings": 0,
+        "population": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.194968,
+          42.710464
+        ]
+      },
+      "properties": {
+        "name": "Canino",
+        "buildings": 0,
+        "population": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.274793,
+          42.700054
+        ]
+      },
+      "properties": {
+        "name": "Case Nuove",
+        "buildings": 3,
+        "population": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.324448,
+          42.81047
+        ]
+      },
+      "properties": {
+        "name": "Doglio",
+        "buildings": 4,
+        "population": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.209771,
+          42.73426
+        ]
+      },
+      "properties": {
+        "name": "Fossatello",
+        "buildings": 6,
+        "population": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.240493,
+          42.735325
+        ]
+      },
+      "properties": {
+        "name": "Osa",
+        "buildings": 0,
+        "population": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.267746,
+          42.70092
+        ]
+      },
+      "properties": {
+        "name": "Perilli",
+        "buildings": 2,
+        "population": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.221291,
+          42.762634
+        ]
+      },
+      "properties": {
+        "name": "Prato",
+        "buildings": 0,
+        "population": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.234799,
+          42.763794
+        ]
+      },
+      "properties": {
+        "name": "Prodo",
+        "buildings": 4,
+        "population": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.30828,
+          42.755657
+        ]
+      },
+      "properties": {
+        "name": "Casemasce",
+        "buildings": 8,
+        "population": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.223752,
+          42.91111
+        ]
+      },
+      "properties": {
+        "name": "Castello",
+        "buildings": 0,
+        "population": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.239544,
+          42.93143
+        ]
+      },
+      "properties": {
+        "name": "Collebrano",
+        "buildings": 2,
+        "population": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.320947,
+          42.86743
+        ]
+      },
+      "properties": {
+        "name": "Collelungo",
+        "buildings": 6,
+        "population": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.280235,
+          42.948795
+        ]
+      },
+      "properties": {
+        "name": "Compignano",
+        "buildings": 1,
+        "population": 137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.26666,
+          42.969196
+        ]
+      },
+      "properties": {
+        "name": "Mercatello",
+        "buildings": 7,
+        "population": 124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.232562,
+          42.92984
+        ]
+      },
+      "properties": {
+        "name": "Migliano",
+        "buildings": 6,
+        "population": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.248349,
+          42.96367
+        ]
+      },
+      "properties": {
+        "name": "Monte Vibiano Vecchio",
+        "buildings": 6,
+        "population": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.322677,
+          42.985397
+        ]
+      },
+      "properties": {
+        "name": "Olmeto",
+        "buildings": 0,
+        "population": 136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.361429,
+          42.883785
+        ]
+      },
+      "properties": {
+        "name": "Pontecane",
+        "buildings": 0,
+        "population": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.293335,
+          42.879433
+        ]
+      },
+      "properties": {
+        "name": "Rotecastello",
+        "buildings": 3,
+        "population": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.230667,
+          42.912212
+        ]
+      },
+      "properties": {
+        "name": "San Vito in Monte",
+        "buildings": 0,
+        "population": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37302,
+          42.963455
+        ]
+      },
+      "properties": {
+        "name": "Papiano Stazione",
+        "buildings": 6,
+        "population": 148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.274539,
+          42.964794
+        ]
+      },
+      "properties": {
+        "name": "Vallicelle",
+        "buildings": 6,
+        "population": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.304305,
+          42.902306
+        ]
+      },
+      "properties": {
+        "name": "Vesca",
+        "buildings": 6,
+        "population": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.309906,
+          43.121716
+        ]
+      },
+      "properties": {
+        "name": "La Trinit\u00E0",
+        "buildings": 7,
+        "population": 436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.689374,
+          43.84572
+        ]
+      },
+      "properties": {
+        "name": "Belvedere Fogliense",
+        "buildings": 3,
+        "population": 211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.714022,
+          43.850857
+        ]
+      },
+      "properties": {
+        "name": "Santa Barbara",
+        "buildings": 10,
+        "population": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.515517,
+          42.852432
+        ]
+      },
+      "properties": {
+        "name": "Torri",
+        "buildings": 1,
+        "population": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.14606,
+          45.343613
+        ]
+      },
+      "properties": {
+        "name": "Salomino",
+        "buildings": 3,
+        "population": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.928591,
+          42.277752
+        ]
+      },
+      "properties": {
+        "name": "Case Boccacci",
+        "buildings": 4,
+        "population": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.906177,
+          42.263485
+        ]
+      },
+      "properties": {
+        "name": "De Contra",
+        "buildings": 7,
+        "population": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.861261,
+          42.232906
+        ]
+      },
+      "properties": {
+        "name": "Dogli",
+        "buildings": 9,
+        "population": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.989987,
+          42.281185
+        ]
+      },
+      "properties": {
+        "name": "Fraticelli",
+        "buildings": 8,
+        "population": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.92719,
+          42.28425
+        ]
+      },
+      "properties": {
+        "name": "La Cesa",
+        "buildings": 3,
+        "population": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.940057,
+          42.278786
+        ]
+      },
+      "properties": {
+        "name": "Oratorio",
+        "buildings": 0,
+        "population": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.743415,
+          42.188507
+        ]
+      },
+      "properties": {
+        "name": "Lombardi",
+        "buildings": 0,
+        "population": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.766738,
+          42.167835
+        ]
+      },
+      "properties": {
+        "name": "Sant\u0027Agostino",
+        "buildings": 0,
+        "population": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.776137,
+          42.53163
+        ]
+      },
+      "properties": {
+        "name": "Bivio Castelli",
+        "buildings": 3,
+        "population": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.694181,
+          42.521015
+        ]
+      },
+      "properties": {
+        "name": "Capsano",
+        "buildings": 5,
+        "population": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.65566,
+          42.487236
+        ]
+      },
+      "properties": {
+        "name": "Ceriseto",
+        "buildings": 7,
+        "population": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.671015,
+          42.509247
+        ]
+      },
+      "properties": {
+        "name": "Colliberti",
+        "buildings": 3,
+        "population": 164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.753627,
+          42.519833
+        ]
+      },
+      "properties": {
+        "name": "Morricone",
+        "buildings": 7,
+        "population": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.735381,
+          42.497784
+        ]
+      },
+      "properties": {
+        "name": "Palombara",
+        "buildings": 4,
+        "population": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.666021,
+          42.485275
+        ]
+      },
+      "properties": {
+        "name": "Pretara",
+        "buildings": 7,
+        "population": 237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.691518,
+          42.494377
+        ]
+      },
+      "properties": {
+        "name": "San Massimo",
+        "buildings": 2,
+        "population": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.684068,
+          42.519657
+        ]
+      },
+      "properties": {
+        "name": "San Giovanni",
+        "buildings": 10,
+        "population": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.651514,
+          42.491524
+        ]
+      },
+      "properties": {
+        "name": "San Pietro",
+        "buildings": 9,
+        "population": 270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.502077,
+          42.545452
+        ]
+      },
+      "properties": {
+        "name": "Tintorale",
+        "buildings": 0,
+        "population": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.724444,
+          42.506084
+        ]
+      },
+      "properties": {
+        "name": "Villa Colli",
+        "buildings": 9,
+        "population": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9050255,
+          42.092957
+        ]
+      },
+      "properties": {
+        "name": "Bagnaturo",
+        "buildings": 10,
+        "population": 432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.889841,
+          42.09905
+        ]
+      },
+      "properties": {
+        "name": "Capo la Costa",
+        "buildings": 0,
+        "population": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.844944,
+          42.114807
+        ]
+      },
+      "properties": {
+        "name": "Loc. Industriale Artigianale e Commerciale Impianata",
+        "buildings": 4,
+        "population": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.853039,
+          42.128967
+        ]
+      },
+      "properties": {
+        "name": "Localit\u00E0 Produttiva Sant\u0027Ippolito",
+        "buildings": 0,
+        "population": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.670898,
+          42.84148
+        ]
+      },
+      "properties": {
+        "name": "Caselle",
+        "buildings": 2,
+        "population": 933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.504459,
+          42.881893
+        ]
+      },
+      "properties": {
+        "name": "Cepparano",
+        "buildings": 5,
+        "population": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.544512,
+          42.808617
+        ]
+      },
+      "properties": {
+        "name": "Cerquito",
+        "buildings": 8,
+        "population": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.623687,
+          42.80242
+        ]
+      },
+      "properties": {
+        "name": "Collevirt\u00F9",
+        "buildings": 1,
+        "population": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.607097,
+          42.803024
+        ]
+      },
+      "properties": {
+        "name": "Gabbiano",
+        "buildings": 3,
+        "population": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.601932,
+          42.830685
+        ]
+      },
+      "properties": {
+        "name": "Lisciano",
+        "buildings": 1,
+        "population": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.507729,
+          42.88505
+        ]
+      },
+      "properties": {
+        "name": "Ripe di Cepperano",
+        "buildings": 2,
+        "population": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.64962,
+          42.818012
+        ]
+      },
+      "properties": {
+        "name": "Sant\u0027Antonio",
+        "buildings": 6,
+        "population": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.638593,
+          42.81412
+        ]
+      },
+      "properties": {
+        "name": "San Cipriano",
+        "buildings": 2,
+        "population": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.597691,
+          42.835503
+        ]
+      },
+      "properties": {
+        "name": "Valli",
+        "buildings": 1,
+        "population": 318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.778525,
+          42.887077
+        ]
+      },
+      "properties": {
+        "name": "Del Parco",
+        "buildings": 1,
+        "population": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755325,
+          42.83577
+        ]
+      },
+      "properties": {
+        "name": "Madonna della Carit\u00E0",
+        "buildings": 6,
+        "population": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.748743,
+          42.81123
+        ]
+      },
+      "properties": {
+        "name": "",
+        "buildings": 9,
+        "population": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.732304,
+          42.894043
+        ]
+      },
+      "properties": {
+        "name": "Neri",
+        "buildings": 1,
+        "population": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.746944,
+          42.88969
+        ]
+      },
+      "properties": {
+        "name": "Pescolla",
+        "buildings": 0,
+        "population": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.735356,
+          42.890984
+        ]
+      },
+      "properties": {
+        "name": "Santa Lucia",
+        "buildings": 1,
+        "population": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.69577,
+          42.804638
+        ]
+      },
+      "properties": {
+        "name": "Santa Reparata",
+        "buildings": 0,
+        "population": 127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.759664,
+          42.8205
+        ]
+      },
+      "properties": {
+        "name": "Villa Bizzarri",
+        "buildings": 9,
+        "population": 172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.704315,
+          42.919834
+        ]
+      },
+      "properties": {
+        "name": "Collecchio",
+        "buildings": 5,
+        "population": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.740624,
+          42.899097
+        ]
+      },
+      "properties": {
+        "name": "Collina",
+        "buildings": 0,
+        "population": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.733921,
+          42.906338
+        ]
+      },
+      "properties": {
+        "name": "Rocchetta",
+        "buildings": 0,
+        "population": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.775404,
+          42.920837
+        ]
+      },
+      "properties": {
+        "name": "San Giorgio",
+        "buildings": 0,
+        "population": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.706536,
+          42.9577
+        ]
+      },
+      "properties": {
+        "name": "San Nicolino",
+        "buildings": 0,
+        "population": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.520081,
+          42.90361
+        ]
+      },
+      "properties": {
+        "name": "Casalena",
+        "buildings": 2,
+        "population": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.468565,
+          42.96552
+        ]
+      },
+      "properties": {
+        "name": "Casali",
+        "buildings": 0,
+        "population": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.463559,
+          42.92005
+        ]
+      },
+      "properties": {
+        "name": "Castel San Pietro",
+        "buildings": 6,
+        "population": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.498252,
+          42.89983
+        ]
+      },
+      "properties": {
+        "name": "Cerreto",
+        "buildings": 1,
+        "population": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.459799,
+          42.979362
+        ]
+      },
+      "properties": {
+        "name": "Faveto",
+        "buildings": 3,
+        "population": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.496786,
+          42.93291
+        ]
+      },
+      "properties": {
+        "name": "Il Palazzo",
+        "buildings": 0,
+        "population": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.509882,
+          42.910225
+        ]
+      },
+      "properties": {
+        "name": "Monsampietro",
+        "buildings": 0,
+        "population": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.513036,
+          42.98204
+        ]
+      },
+      "properties": {
+        "name": "Montecchio",
+        "buildings": 2,
+        "population": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.527359,
+          42.902374
+        ]
+      },
+      "properties": {
+        "name": "Morignano",
+        "buildings": 3,
+        "population": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.493634,
+          42.939682
+        ]
+      },
+      "properties": {
+        "name": "Montemoro",
+        "buildings": 0,
+        "population": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.463964,
+          42.94631
+        ]
+      },
+      "properties": {
+        "name": "Quinzano",
+        "buildings": 1,
+        "population": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.450892,
+          42.92138
+        ]
+      },
+      "properties": {
+        "name": "Tavernelle",
+        "buildings": 0,
+        "population": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.506463,
+          42.979412
+        ]
+      },
+      "properties": {
+        "name": "Santo Stefano",
+        "buildings": 1,
+        "population": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.538162,
+          42.900223
+        ]
+      },
+      "properties": {
+        "name": "Trivigliano-Villa Pagani",
+        "buildings": 4,
+        "population": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.87973,
+          42.879265
+        ]
+      },
+      "properties": {
+        "name": "Cappelletti",
+        "buildings": 10,
+        "population": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.802915,
+          42.89442
+        ]
+      },
+      "properties": {
+        "name": "Comunanza",
+        "buildings": 1,
+        "population": 139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.843024,
+          42.939335
+        ]
+      },
+      "properties": {
+        "name": "Conca degli Ulivi",
+        "buildings": 0,
+        "population": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.793987,
+          42.874634
+        ]
+      },
+      "properties": {
+        "name": "Enfiteusi",
+        "buildings": 1,
+        "population": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.803964,
+          42.87509
+        ]
+      },
+      "properties": {
+        "name": "Fiobbo",
+        "buildings": 2,
+        "population": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78641,
+          42.895874
+        ]
+      },
+      "properties": {
+        "name": "Fontanelle",
+        "buildings": 0,
+        "population": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.891888,
+          42.878178
+        ]
+      },
+      "properties": {
+        "name": "Marconi",
+        "buildings": 0,
+        "population": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.882741,
+          42.866528
+        ]
+      },
+      "properties": {
+        "name": "Prosperi",
+        "buildings": 1,
+        "population": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.791211,
+          42.895264
+        ]
+      },
+      "properties": {
+        "name": "San Francesco",
+        "buildings": 0,
+        "population": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.846393,
+          42.914795
+        ]
+      },
+      "properties": {
+        "name": "San Giacomo",
+        "buildings": 5,
+        "population": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.805386,
+          42.90596
+        ]
+      },
+      "properties": {
+        "name": "Sant\u0027Egidio I",
+        "buildings": 0,
+        "population": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.808098,
+          42.87939
+        ]
+      },
+      "properties": {
+        "name": "Treazzano",
+        "buildings": 2,
+        "population": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.788921,
+          42.881645
+        ]
+      },
+      "properties": {
+        "name": "Villa San Pio X",
+        "buildings": 1,
+        "population": 181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.786592,
+          42.917187
+        ]
+      },
+      "properties": {
+        "name": "Valle Cecchina",
+        "buildings": 0,
+        "population": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.516069,
+          42.882343
+        ]
+      },
+      "properties": {
+        "name": "Castellano",
+        "buildings": 3,
+        "population": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.293924,
+          45.347248
+        ]
+      },
+      "properties": {
+        "name": "Strella",
+        "buildings": 0,
+        "population": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.520174,
+          42.872974
+        ]
+      },
+      "properties": {
+        "name": "Marcellano",
+        "buildings": 2,
+        "population": 568
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.479852,
+          42.796223
+        ]
+      },
+      "properties": {
+        "name": "Monticello",
+        "buildings": 0,
+        "population": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.467362,
+          42.805767
+        ]
+      },
+      "properties": {
+        "name": "San Damiano",
+        "buildings": 2,
+        "population": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.623533,
+          37.66176
+        ]
+      },
+      "properties": {
+        "name": "Contrada Serroni",
+        "buildings": 2,
+        "population": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.132862,
+          43.52413
+        ]
+      },
+      "properties": {
+        "name": "Pastine",
+        "buildings": 6,
+        "population": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.159923,
+          45.094273
+        ]
+      },
+      "properties": {
+        "name": "Le Calandre",
+        "buildings": 2,
+        "population": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.121057,
+          45.103214
+        ]
+      },
+      "properties": {
+        "name": "S. Fiorano di Sopra",
+        "buildings": 10,
+        "population": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.284383,
+          44.98565
+        ]
+      },
+      "properties": {
+        "name": "Casazza",
+        "buildings": 0,
+        "population": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.757635,
+          43.459373
+        ]
+      },
+      "properties": {
+        "name": "San Giovanni",
+        "buildings": 3,
+        "population": 93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.653567,
+          42.766968
+        ]
+      },
+      "properties": {
+        "name": "Bivio Risteccio",
+        "buildings": 1,
+        "population": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.648877,
+          42.763393
+        ]
+      },
+      "properties": {
+        "name": "Piano Risteccio",
+        "buildings": 0,
+        "population": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.639341,
+          42.780964
+        ]
+      },
+      "properties": {
+        "name": "Valle Sant\u0027Angelo",
+        "buildings": 4,
+        "population": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.647458,
+          42.792267
+        ]
+      },
+      "properties": {
+        "name": "Villa Lempa",
+        "buildings": 2,
+        "population": 872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.653497,
+          42.77869
+        ]
+      },
+      "properties": {
+        "name": "Villa Passo",
+        "buildings": 2,
+        "population": 157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.898916,
+          45.389294
+        ]
+      },
+      "properties": {
+        "name": "Realizio",
+        "buildings": 4,
+        "population": 297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.506062,
+          42.86119
+        ]
+      },
+      "properties": {
+        "name": "Barattano",
+        "buildings": 1,
+        "population": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.218691,
+          42.34946
+        ]
+      },
+      "properties": {
+        "name": "Vigliano",
+        "buildings": 0,
+        "population": 124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52205,
+          42.825417
+        ]
+      },
+      "properties": {
+        "name": "Viepri",
+        "buildings": 7,
+        "population": 147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.477476,
+          42.681614
+        ]
+      },
+      "properties": {
+        "name": "Collesecco",
+        "buildings": 6,
+        "population": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.475117,
+          42.57392
+        ]
+      },
+      "properties": {
+        "name": "Capitone",
+        "buildings": 0,
+        "population": 444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.450917,
+          42.671585
+        ]
+      },
+      "properties": {
+        "name": "Dunarobba",
+        "buildings": 0,
+        "population": 182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.697541,
+          42.619236
+        ]
+      },
+      "properties": {
+        "name": "Battiferro",
+        "buildings": 1,
+        "population": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.789167,
+          45.240086
+        ]
+      },
+      "properties": {
+        "name": "Casoni di Sant\u0027Albino",
+        "buildings": 4,
+        "population": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.047633,
+          45.251694
+        ]
+      },
+      "properties": {
+        "name": "Sant\u0027Antonino",
+        "buildings": 3,
+        "population": 728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.176865,
+          45.32494
+        ]
+      },
+      "properties": {
+        "name": "Cascina San Pio",
+        "buildings": 0,
+        "population": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.183192,
+          45.327934
+        ]
+      },
+      "properties": {
+        "name": "Cascina Naja",
+        "buildings": 9,
+        "population": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.19803,
+          45.336933
+        ]
+      },
+      "properties": {
+        "name": "Cascina Pocchiotta",
+        "buildings": 4,
+        "population": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.139327,
+          45.327057
+        ]
+      },
+      "properties": {
+        "name": "Cascina Carbondola",
+        "buildings": 0,
+        "population": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.174245,
+          45.321632
+        ]
+      },
+      "properties": {
+        "name": "Cascina Bosiate",
+        "buildings": 0,
+        "population": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.204839,
+          45.316715
+        ]
+      },
+      "properties": {
+        "name": "Cascina Foglietta",
+        "buildings": 0,
+        "population": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.129997,
+          45.344913
+        ]
+      },
+      "properties": {
+        "name": "Cascina Vianone",
+        "buildings": 0,
+        "population": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.149981,
+          45.35394
+        ]
+      },
+      "properties": {
+        "name": "Cascina Tre Colombare",
+        "buildings": 9,
+        "population": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.023858,
+          43.557056
+        ]
+      },
+      "properties": {
+        "name": "Bagnolo I",
+        "buildings": 8,
+        "population": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.026938,
+          43.565323
+        ]
+      },
+      "properties": {
+        "name": "Carmine",
+        "buildings": 10,
+        "population": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.245501,
+          45.408886
+        ]
+      },
+      "properties": {
+        "name": "Cascina Cason Vecchio",
+        "buildings": 6,
+        "population": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.258073,
+          45.436954
+        ]
+      },
+      "properties": {
+        "name": "Lista",
+        "buildings": 2,
+        "population": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.294395,
+          45.41728
+        ]
+      },
+      "properties": {
+        "name": "Cascina Bellaria",
+        "buildings": 0,
+        "population": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.015889,
+          36.704662
+        ]
+      },
+      "properties": {
+        "name": "Granelli",
+        "buildings": 9,
+        "population": 106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.790638,
+          43.760292
+        ]
+      },
+      "properties": {
+        "name": "Lierna",
+        "buildings": 3,
+        "population": 126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85599,
+          45.02471
+        ]
+      },
+      "properties": {
+        "name": "Mezzo Nuovo",
+        "buildings": 4,
+        "population": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.525633,
+          42.62035
+        ]
+      },
+      "properties": {
+        "name": "Colle Ozio",
+        "buildings": 0,
+        "population": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.770401,
+          42.59542
+        ]
+      },
+      "properties": {
+        "name": "Capitignano",
+        "buildings": 1,
+        "population": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.723246,
+          42.62169
+        ]
+      },
+      "properties": {
+        "name": "Valle San Martino",
+        "buildings": 10,
+        "population": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.711153,
+          42.594475
+        ]
+      },
+      "properties": {
+        "name": "Castagna",
+        "buildings": 1,
+        "population": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.737195,
+          42.619232
+        ]
+      },
+      "properties": {
+        "name": "Macchialunga",
+        "buildings": 4,
+        "population": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.611494,
+          42.71197
+        ]
+      },
+      "properties": {
+        "name": "Firenzuola",
+        "buildings": 10,
+        "population": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.540268,
+          42.726063
+        ]
+      },
+      "properties": {
+        "name": "Stazione Massa Martana",
+        "buildings": 2,
+        "population": 82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.552693,
+          42.73119
+        ]
+      },
+      "properties": {
+        "name": "Pozzi",
+        "buildings": 0,
+        "population": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.548574,
+          42.74426
+        ]
+      },
+      "properties": {
+        "name": "Torre Lorenzetta",
+        "buildings": 2,
+        "population": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.550094,
+          42.739082
+        ]
+      },
+      "properties": {
+        "name": "Colpetrazzo",
+        "buildings": 1,
+        "population": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61421,
+          42.716633
+        ]
+      },
+      "properties": {
+        "name": "Collebianco",
+        "buildings": 3,
+        "population": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.525095,
+          42.739647
+        ]
+      },
+      "properties": {
+        "name": "Montignano",
+        "buildings": 0,
+        "population": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563556,
+          42.72822
+        ]
+      },
+      "properties": {
+        "name": "Mezzanelli",
+        "buildings": 1,
+        "population": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.524241,
+          42.758186
+        ]
+      },
+      "properties": {
+        "name": "Raggio",
+        "buildings": 6,
+        "population": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.318475,
+          42.630856
+        ]
+      },
+      "properties": {
+        "name": "Le Case",
+        "buildings": 2,
+        "population": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.392835,
+          42.62689
+        ]
+      },
+      "properties": {
+        "name": "Frattuccia",
+        "buildings": 1,
+        "population": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.315102,
+          42.633884
+        ]
+      },
+      "properties": {
+        "name": "Cocciano",
+        "buildings": 2,
+        "population": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3103695,
+          42.6317
+        ]
+      },
+      "properties": {
+        "name": "Case Branca",
+        "buildings": 4,
+        "population": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.365443,
+          42.59874
+        ]
+      },
+      "properties": {
+        "name": "Macchie",
+        "buildings": 2,
+        "population": 412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.320127,
+          42.62787
+        ]
+      },
+      "properties": {
+        "name": "Le Case I",
+        "buildings": 2,
+        "population": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.314736,
+          42.630966
+        ]
+      },
+      "properties": {
+        "name": "Tavoletta",
+        "buildings": 3,
+        "population": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.466518,
+          42.506413
+        ]
+      },
+      "properties": {
+        "name": "Montoro",
+        "buildings": 7,
+        "population": 224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54582,
+          42.5121
+        ]
+      },
+      "properties": {
+        "name": "Miriano",
+        "buildings": 5,
+        "population": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.519759,
+          42.507072
+        ]
+      },
+      "properties": {
+        "name": "La Scogliara",
+        "buildings": 2,
+        "population": 103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565565,
+          42.511208
+        ]
+      },
+      "properties": {
+        "name": "Erbabigia",
+        "buildings": 0,
+        "population": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.512046,
+          42.504173
+        ]
+      },
+      "properties": {
+        "name": "Recentino",
+        "buildings": 4,
+        "population": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.607776,
+          42.514004
+        ]
+      },
+      "properties": {
+        "name": "Fiaiola",
+        "buildings": 0,
+        "population": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57627,
+          42.51181
+        ]
+      },
+      "properties": {
+        "name": "San Faustino",
+        "buildings": 0,
+        "population": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.621898,
+          42.519554
+        ]
+      },
+      "properties": {
+        "name": "Contea",
+        "buildings": 9,
+        "population": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.614429,
+          42.522335
+        ]
+      },
+      "properties": {
+        "name": "Colle Sant\u0027Angelo",
+        "buildings": 6,
+        "population": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.488162,
+          42.539055
+        ]
+      },
+      "properties": {
+        "name": "San Pellegrino",
+        "buildings": 1,
+        "population": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.500125,
+          42.55876
+        ]
+      },
+      "properties": {
+        "name": "Colle di Sopra",
+        "buildings": 0,
+        "population": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.486664,
+          42.561626
+        ]
+      },
+      "properties": {
+        "name": "San Mauro",
+        "buildings": 1,
+        "population": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.588688,
+          42.485615
+        ]
+      },
+      "properties": {
+        "name": "Gobbi",
+        "buildings": 0,
+        "population": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.599845,
+          42.48853
+        ]
+      },
+      "properties": {
+        "name": "Colle Secco",
+        "buildings": 0,
+        "population": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.597369,
+          42.485733
+        ]
+      },
+      "properties": {
+        "name": "Colle Palazzo",
+        "buildings": 0,
+        "population": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.586037,
+          42.46526
+        ]
+      },
+      "properties": {
+        "name": "Sant\u0027Urbano",
+        "buildings": 0,
+        "population": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587827,
+          42.479713
+        ]
+      },
+      "properties": {
+        "name": "Castelvecchio",
+        "buildings": 0,
+        "population": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.573496,
+          42.484173
+        ]
+      },
+      "properties": {
+        "name": "Altrocanto",
+        "buildings": 5,
+        "population": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.624322,
+          42.495724
+        ]
+      },
+      "properties": {
+        "name": "Zona Industriale Vascigliano",
+        "buildings": 7,
+        "population": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.636309,
+          42.523174
+        ]
+      },
+      "properties": {
+        "name": "Sant\u0027Antimo",
+        "buildings": 2,
+        "population": 162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57908,
+          42.501225
+        ]
+      },
+      "properties": {
+        "name": "Cipiccia Vecchia",
+        "buildings": 0,
+        "population": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6582,
+          42.449966
+        ]
+      },
+      "properties": {
+        "name": "Finocchieto",
+        "buildings": 0,
+        "population": 181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.780369,
+          45.067562
+        ]
+      },
+      "properties": {
+        "name": "Monte Aman",
+        "buildings": 7,
+        "population": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65665,
+          44.94465
+        ]
+      },
+      "properties": {
+        "name": "Tetti Griffa",
+        "buildings": 8,
+        "population": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.104239,
+          44.878876
+        ]
+      },
+      "properties": {
+        "name": "Perosini",
+        "buildings": 8,
+        "population": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.435108,
+          45.066914
+        ]
+      },
+      "properties": {
+        "name": "Cascine Aceto",
+        "buildings": 4,
+        "population": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.580609,
+          45.0666
+        ]
+      },
+      "properties": {
+        "name": "San Zeno",
+        "buildings": 3,
+        "population": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.463738,
+          45.047768
+        ]
+      },
+      "properties": {
+        "name": "San Maurizio di Conzano",
+        "buildings": 10,
+        "population": 422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.607158,
+          45.055103
+        ]
+      },
+      "properties": {
+        "name": "Monte",
+        "buildings": 4,
+        "population": 265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.577535,
+          45.080544
+        ]
+      },
+      "properties": {
+        "name": "Cascine Nuove",
+        "buildings": 0,
+        "population": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.82848,
+          45.027767
+        ]
+      },
+      "properties": {
+        "name": "Capraglia",
+        "buildings": 7,
+        "population": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.695266,
+          45.043423
+        ]
+      },
+      "properties": {
+        "name": "Cascina Mulino",
+        "buildings": 1,
+        "population": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70828,
+          45.075584
+        ]
+      },
+      "properties": {
+        "name": "Castellaro de\u0027 Giorgi",
+        "buildings": 5,
+        "population": 98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.688993,
+          45.041126
+        ]
+      },
+      "properties": {
+        "name": "Cascina San Zeno",
+        "buildings": 5,
+        "population": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.833081,
+          45.017857
+        ]
+      },
+      "properties": {
+        "name": "San Pietro",
+        "buildings": 2,
+        "population": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766779,
+          45.07738
+        ]
+      },
+      "properties": {
+        "name": "Tortorolo",
+        "buildings": 9,
+        "population": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.834813,
+          45.077225
+        ]
+      },
+      "properties": {
+        "name": "Gallia",
+        "buildings": 2,
+        "population": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4522934,
+          45.270782
+        ]
+      },
+      "properties": {
+        "name": "Funghera",
+        "buildings": 5,
+        "population": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.610885,
+          42.36266
+        ]
+      },
+      "properties": {
+        "name": "Collepietro",
+        "buildings": 3,
+        "population": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.589648,
+          42.372307
+        ]
+      },
+      "properties": {
+        "name": "Colleberardo",
+        "buildings": 10,
+        "population": 59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.573553,
+          42.36492
+        ]
+      },
+      "properties": {
+        "name": "Sargnano",
+        "buildings": 9,
+        "population": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.583119,
+          42.369392
+        ]
+      },
+      "properties": {
+        "name": "Sargnano II",
+        "buildings": 7,
+        "population": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.584286,
+          42.36405
+        ]
+      },
+      "properties": {
+        "name": "Spezzano",
+        "buildings": 8,
+        "population": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.940933,
+          42.604946
+        ]
+      },
+      "properties": {
+        "name": "Villa Ciavatta",
+        "buildings": 3,
+        "population": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.962878,
+          42.593033
+        ]
+      },
+      "properties": {
+        "name": "Villa Climinti",
+        "buildings": 9,
+        "population": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9246435,
+          42.597168
+        ]
+      },
+      "properties": {
+        "name": "Villa Pulcini",
+        "buildings": 2,
+        "population": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.821878,
+          42.523685
+        ]
+      },
+      "properties": {
+        "name": "La Scilga",
+        "buildings": 4,
+        "population": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.781408,
+          42.51872
+        ]
+      },
+      "properties": {
+        "name": "Madonna della Luce",
+        "buildings": 6,
+        "population": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.878536,
+          42.470753
+        ]
+      },
+      "properties": {
+        "name": "Fantauzzi",
+        "buildings": 8,
+        "population": 465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.913502,
+          42.472134
+        ]
+      },
+      "properties": {
+        "name": "Gli Osti",
+        "buildings": 7,
+        "population": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.389697,
+          45.283363
+        ]
+      },
+      "properties": {
+        "name": "Bogliano",
+        "buildings": 9,
+        "population": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97556,
+          42.60092
+        ]
+      },
+      "properties": {
+        "name": "Ocre",
+        "buildings": 0,
+        "population": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.322644,
+          42.559227
+        ]
+      },
+      "properties": {
+        "name": "Case Mori",
+        "buildings": 0,
+        "population": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3195505,
+          42.5721
+        ]
+      },
+      "properties": {
+        "name": "Fontana",
+        "buildings": 2,
+        "population": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.323875,
+          42.572296
+        ]
+      },
+      "properties": {
+        "name": "Collesecco",
+        "buildings": 6,
+        "population": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.269514,
+          42.570465
+        ]
+      },
+      "properties": {
+        "name": "Acquasanta",
+        "buildings": 1,
+        "population": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.202479,
+          42.592304
+        ]
+      },
+      "properties": {
+        "name": "Litigata",
+        "buildings": 5,
+        "population": 15
+      }
+    }
+  ]
+}
